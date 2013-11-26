@@ -39,7 +39,7 @@ So the Lua community could focus on design of APITREE (tree organization, functi
 
 Note that if all the official APITREE functions had their unit tests implemented, that woulkd allow automatic module discovery, by checking each known module against each known official API.
 
-Check sample (runnable!) implementation in *.lua files.
+Check sample (runnable! - you need luarocks, then luasocket and nixio rocks installed) implementation in *.lua files.
 
 
 
